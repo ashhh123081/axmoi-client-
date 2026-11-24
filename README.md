@@ -2,7 +2,7 @@
 # Axmoi Client
 
 This is axmoi client this client is the remake of drip lite 3.3 with mapped settings 
-tested with 1.8.9
+tested with 1.8.9 the instructions on how to inject it are on the releases the source of this is on https://github.com/ashhh123081/axmoi-client-source
 ## Clients That Are Working
 
 | Clients            | Working/Not working/Not tested                                                                |
