@@ -7,10 +7,10 @@ tested with 1.8.9 the instructions on how to inject it are on the releases the s
 
 | Clients            | Working/Not working/Not tested                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Vanilla | ![#ffb700ff](https://dummyimage.com/10/ffb700ff/white?text=+)  Not Tested
-| Forge | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+) Working|
-| Fabric | ![#ffb700ff](https://dummyimage.com/10/ffb700ff/white?text=+)  Not Tested|
-| Lunar | ![#ffb700ff](https://dummyimage.com/10/ffb700ff/white?text=+) Not Tested|
+| Vanilla | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)  Working up to 1.12
+| Forge | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+) Working up to 1.21|
+| Fabric | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)  Working up to 1.21|
+| Lunar | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+) Working up to 1.21|
 
 
 ## !!!!! THIS CLIENT IS STILL IN BETA
